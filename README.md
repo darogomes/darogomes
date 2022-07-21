@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @darogomes (Davi Rodrigues);
+- 👀 I’m interested in learn about technology, especially when it comes to data analysis and BI;
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate with my knowledge;
+- 📫 You can find me on LinkedIn: https://www.linkedin.com/in/davi-rodrigues-23a904181/
